@@ -40,21 +40,26 @@ To get started, ensure you have the following tools and dependencies installed:
 Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/static-site-generator.git
+git clone https://github.com/hawkaii/static-site-generator.git
 cd static-site-generator
+```
 
 Install any required Python dependencies (if applicable) using pip:
+
+```sh
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 Run the static site generator using the following command:
-
+```sh
 python generate.py
+```
 
 This will generate the static HTML and CSS files from the raw content files located in the designated content directory.
-Contributing
+
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
