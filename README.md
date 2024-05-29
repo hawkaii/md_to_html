@@ -54,8 +54,10 @@ pip install -r requirements.txt
 
 Run the static site generator using the following command:
 ```sh
-python generate.py
+./main.sh
+
 ```
+
 
 This will generate the static HTML and CSS files from the raw content files located in the designated content directory.
 
